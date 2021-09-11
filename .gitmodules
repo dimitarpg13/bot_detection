@@ -10,3 +10,6 @@
 [submodule "examples/debot_dominoanty"]
 	path = examples/debot_dominoanty
 	url = https://github.com/dominoanty/Debot.git
+[submodule "examples/lstm_rnn_tutorial_with_demo_omerbsezer"]
+	path = examples/lstm_rnn_tutorial_with_demo_omerbsezer
+	url = https://github.com/omerbsezer/LSTM_RNN_Tutorials_with_Demo.git
