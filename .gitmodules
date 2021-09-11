@@ -19,3 +19,6 @@
 [submodule "examples/lstm_sentiment_analysis_adeshpande3"]
 	path = examples/lstm_sentiment_analysis_adeshpande3
 	url = https://github.com/adeshpande3/LSTM-Sentiment-Analysis.git
+[submodule "examples/intro_deep_learning_dimitarpg13"]
+	path = examples/intro_deep_learning_dimitarpg13
+	url = https://github.com/dimitarpg13/intro-to-deep-learning.git
