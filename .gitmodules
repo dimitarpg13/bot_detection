@@ -16,3 +16,6 @@
 [submodule "examples/lstm_sentiment_analysis_changhuixu"]
 	path = examples/lstm_sentiment_analysis_changhuixu
 	url = https://github.com/changhuixu/LSTM-sentiment-analysis.git
+[submodule "examples/lstm_sentiment_analysis_adeshpande3"]
+	path = examples/lstm_sentiment_analysis_adeshpande3
+	url = https://github.com/adeshpande3/LSTM-Sentiment-Analysis.git
