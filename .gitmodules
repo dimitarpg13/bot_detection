@@ -13,3 +13,6 @@
 [submodule "examples/lstm_rnn_tutorial_with_demo_omerbsezer"]
 	path = examples/lstm_rnn_tutorial_with_demo_omerbsezer
 	url = https://github.com/omerbsezer/LSTM_RNN_Tutorials_with_Demo.git
+[submodule "examples/lstm_sentiment_analysis_changhuixu"]
+	path = examples/lstm_sentiment_analysis_changhuixu
+	url = https://github.com/changhuixu/LSTM-sentiment-analysis.git
