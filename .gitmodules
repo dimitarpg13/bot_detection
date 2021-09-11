@@ -1,0 +1,15 @@
+[submodule "examples/examples"]
+	path = examples/examples
+	url = https://github.com/jubins/MachineLearning-Detecting-Twitter-Bots.git
+[submodule "examples/detecting_twitter_bots_jubins"]
+	path = examples/detecting_twitter_bots_jubins
+	url = https://github.com/jubins/MachineLearning-Detecting-Twitter-Bots.git
+[submodule "examples/twitter_bot_detection_scrapfishies"]
+	path = examples/twitter_bot_detection_scrapfishies
+	url = https://github.com/scrapfishies/twitter-bot-detection.git
+[submodule "examples/botnet_detection_harvardnlp"]
+	path = examples/botnet_detection_harvardnlp
+	url = https://github.com/harvardnlp/botnet-detection.git
+[submodule "examples/debot_dominoanty"]
+	path = examples/debot_dominoanty
+	url = https://github.com/dominoanty/Debot.git
