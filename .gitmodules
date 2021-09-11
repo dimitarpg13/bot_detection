@@ -1,6 +1,3 @@
-[submodule "examples/examples"]
-	path = examples/examples
-	url = https://github.com/jubins/MachineLearning-Detecting-Twitter-Bots.git
 [submodule "examples/detecting_twitter_bots_jubins"]
 	path = examples/detecting_twitter_bots_jubins
 	url = https://github.com/jubins/MachineLearning-Detecting-Twitter-Bots.git
